@@ -133,7 +133,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "7de9d99f00fcb6d5e40bc0dd1808c2dcee210009"
+      resolved-ref: c8366398d2c878ed67f397f5c386171396ec635a
       url: "https://github.com/Individual-1/jackbox-client.git"
     source: git
     version: "1.0.0+1"
